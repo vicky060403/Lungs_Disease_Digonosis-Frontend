@@ -94,7 +94,7 @@ lung_disease_frontend/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/lung-disease-frontend.git
+git clone https://github.com/vicky060403/Lungs_Disease_Digonosis-Frontend.git
 
 cd lung-disease-frontend
 ```
@@ -190,32 +190,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-> Add screenshot here
-
----
-
-### Prediction Page
-
-> Add screenshot here
-
----
-
-### History Page
-
-> Add screenshot here
-
----
-
-### PDF Report
-
-> Add screenshot here
-
----
-
 ## 🔌 Backend Repository
 
 The frontend communicates with the BentoML backend via REST API.
@@ -223,7 +197,7 @@ The frontend communicates with the BentoML backend via REST API.
 Backend Repository:
 
 ```
-https://github.com/<your-username>/lung-disease-backend
+https://github.com/vicky060403/Lungs_Disease_Digonosis
 ```
 
 ---
@@ -244,15 +218,9 @@ https://github.com/<your-username>/lung-disease-backend
 
 **Vicky Kumar**
 
-LinkedIn: https://linkedin.com/in/<your-linkedin>
+LinkedIn: https://www.linkedin.com/in/vicky-kumar-95aa4b283
 
-GitHub: https://github.com/<your-github>
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
+GitHub: https://github.com/vicky060403/>
 
 ---
 
